@@ -1,2 +1,21 @@
-## 嗨，你好！
-![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=luongthimydieu)
+<p>
+  <img src="image/kitty.jpg" align="right" width="256" />
+</p>
+
+### 人生海海 不过尔尔
+
+> 想到我们毫无结果，
+> 
+> 像星轨交错却永不相认。
+> 
+> 你向左，我向右，
+> 
+> 在时间的无垠里失语。
+>
+> 想到世界足够辽阔，
+> 
+> 容得下千万种别离与重逢。
+> 
+> 可我偏偏，在你转身的刹那，
+> 
+> 听见了整个宇宙的寂静。
